@@ -11,9 +11,9 @@
 class ConverterJSON
 {
 private:
-    std::string pathConfigJSON{"config.json"};
-    std::string pathRequestsJSON{"requests.json"};
-    std::string pathAnswersJSON{"answers.json"};
+    const std::string pathConfigJSON{"config.json"};
+    const std::string pathRequestsJSON{"requests.json"};
+    const std::string pathAnswersJSON{"answers.json"};
     nlohmann::json jsonConfig, jsonRequests;
     bool start{true};
     std::string zeroPadNumber(int &);

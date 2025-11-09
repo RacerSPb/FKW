@@ -4,11 +4,11 @@
 ![GitHub author](https://img.shields.io/badge/made_on-C++-red)
 <br><i> Search for words in files</i> | <i> Поиск слов в файлах.</i>
 
-## Description | Описание
-![GitHub author](https://img.shields.io/badge/-ENG-blue)<br>
-Application for searching of request words (JSON file requests.json) in resources text files (path to resources files are specified in config.json). Search result is putting into answers.json.<br><br>
+## Описание | Description
 ![GitHub author](https://img.shields.io/badge/-RUS-red)<br>
-Приложение для поиска запрашиваемых слов (JSON файл requests.json) в текстовых файлах ресурсов (путь к ресурсам указан в config.json). Результат поиска помещается в answers.json.
+Приложение для поиска запрашиваемых слов (JSON файл requests.json) в текстовых файлах ресурсов (путь к ресурсам указан в config.json). Результат поиска помещается в answers.json.<br><br>
+![GitHub author](https://img.shields.io/badge/-ENG-blue)<br>
+Application for searching of request words (JSON file requests.json) in resources text files (path to resources files are specified in config.json). Search result is putting into answers.json.
 ## Technologies
 ![GitHub author](https://img.shields.io/badge/C++-15.2.0-005199?style=for-the-badge) 
 ![GitHub author](https://img.shields.io/badge/CMake-4.1.2-005199?style=for-the-badge)
